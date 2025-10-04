@@ -1,0 +1,8 @@
+//
+// Created by TUF on 9/11/2025.
+//
+
+#ifndef STRUKDAT_SEMS3_HELLO_WORLD_H
+#define STRUKDAT_SEMS3_HELLO_WORLD_H
+
+#endif //STRUKDAT_SEMS3_HELLO_WORLD_H

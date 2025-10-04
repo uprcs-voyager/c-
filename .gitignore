@@ -1,0 +1,12 @@
+tes_code/
+cmake-build-debug/
+*.exe
+.exe
+.idea/
+idea/
+*.xml
+.xml
+*.iml
+.iml
+
+/lmao
